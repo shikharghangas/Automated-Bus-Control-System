@@ -1,4 +1,5 @@
 Project Name: Arduino-Based Automated Bus Control System
+
 Description:
 The Arduino-Based Automated Bus Control System is a sophisticated project that simulates the operations of a bus using two Arduino microcontrollers. This project incorporates multiple hardware components, such as motors, LEDs, buttons, an ultrasonic sensor, and a display screen, to create an interactive and automated bus system prototype. Below is a detailed explanation of the project's features and functionality:
 
